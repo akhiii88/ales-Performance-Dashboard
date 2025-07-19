@@ -16,5 +16,4 @@ This project analyzes sales data from a fictional retail business to uncover key
 - SQL for data querying and transformation
 - Power BI for data modeling and visualization
 
-## 📝 License
-This project is licensed under the MIT License.
+
